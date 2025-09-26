@@ -1,7 +1,7 @@
 {
   "name": "frontend-frameworks-explorer",
   "version": "1.0.0",
-  "description": "Một công cụ trực tuyến cho phép người dùng khám phá và so sánh các frontend frameworks.",
+  "description": "A web tool that allows users to explore and compare various frontend frameworks.",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
