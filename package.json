@@ -1,7 +1,7 @@
 {
   "name": "frontend-frameworks-explorer",
   "version": "1.0.0",
-  "description": "A web application that enables users to explore and compare various frontend frameworks efficiently.",
+  "description": "A web application that allows users to explore, compare, and evaluate various frontend frameworks efficiently.",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
