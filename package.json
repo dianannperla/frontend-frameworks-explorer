@@ -9,7 +9,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "author": "Your Name",
+  "author": "John Doe",
   "license": "MIT",
   "dependencies": {
     "react": "^17.0.2",
